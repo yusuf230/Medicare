@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Medicare.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Medicare.git/static/js/main.1c8639bb.js",
+    "static/js/453.ed3810f9.chunk.js": "/Medicare.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/Team.jpg": "/Medicare.git/static/media/Team.83d88d72836115ef884c.jpg",
+    "static/media/medical2.png": "/Medicare.git/static/media/medical2.19db503f6885796137db.png",
+    "static/media/medi7.jpg": "/Medicare.git/static/media/medi7.4e8ef8e55eb854595f48.jpg",
+    "static/media/medical6.jpg": "/Medicare.git/static/media/medical6.bd7576b53877464da495.jpg",
+    "static/media/medical3.jpg": "/Medicare.git/static/media/medical3.b83e4bbfe44ca5ee52c0.jpg",
+    "static/media/medical4.jpg": "/Medicare.git/static/media/medical4.21459753b59acde597b9.jpg",
+    "static/media/medical1.avif": "/Medicare.git/static/media/medical1.4730fc0ef2eb6b7c3e48.avif",
+    "index.html": "/Medicare.git/index.html",
+    "main.e6c13ad2.css.map": "/Medicare.git/static/css/main.e6c13ad2.css.map",
+    "main.1c8639bb.js.map": "/Medicare.git/static/js/main.1c8639bb.js.map",
+    "453.ed3810f9.chunk.js.map": "/Medicare.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c8639bb.js"
+  ]
+}
