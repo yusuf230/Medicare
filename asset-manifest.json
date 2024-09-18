@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Medicare/static/css/main.e6c13ad2.css",
-    "main.js": "/Medicare/static/js/main.9fbae2ef.js",
+    "main.js": "/Medicare/static/js/main.6ff04ae9.js",
     "static/js/453.ed3810f9.chunk.js": "/Medicare/static/js/453.ed3810f9.chunk.js",
     "static/media/Team.jpg": "/Medicare/static/media/Team.83d88d72836115ef884c.jpg",
     "static/media/medical2.png": "/Medicare/static/media/medical2.19db503f6885796137db.png",
@@ -12,11 +12,11 @@
     "static/media/medical1.avif": "/Medicare/static/media/medical1.4730fc0ef2eb6b7c3e48.avif",
     "index.html": "/Medicare/index.html",
     "main.e6c13ad2.css.map": "/Medicare/static/css/main.e6c13ad2.css.map",
-    "main.9fbae2ef.js.map": "/Medicare/static/js/main.9fbae2ef.js.map",
+    "main.6ff04ae9.js.map": "/Medicare/static/js/main.6ff04ae9.js.map",
     "453.ed3810f9.chunk.js.map": "/Medicare/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9fbae2ef.js"
+    "static/js/main.6ff04ae9.js"
   ]
 }
